@@ -625,6 +625,7 @@ form .btn2{
 }
 .btn:hover{
     background: var(--main-color);
+    color: white;
 }
 .copyright{
     width: 100%;
